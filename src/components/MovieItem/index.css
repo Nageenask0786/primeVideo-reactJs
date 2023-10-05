@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.movie {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 150px;
+  width: 130px;
+}
